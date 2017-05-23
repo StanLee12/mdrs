@@ -1,10 +1,10 @@
  <widget id="A6940053454053"  version="0.0.1">
-    <name>Gods</name>
+    <name>mdrs</name>
     <description>
-        Example For APICloud.
+        气象灾害直报
     </description>
-    <author email="developer@apicloud.com" href="http://www.apicloud.com">
-        Developer
+    <author email="stablee1226@gmail.com" href="stablee1226@gmail.com">
+        Stan
     </author>
     <content src="index.html" />
     <access origin="*" />
